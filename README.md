@@ -26,7 +26,7 @@ Start -> A -->->C->B-|->D->End
               ->E----|
 ```
 Alternatively, we could use some analyzing tools such as open source library of python, R , etc. to automatically generate the whole process:
-![Pic1](main/Quick%20Sample/exercise1.png)	</br>
+![Pic1](https://github.com/Paulwesomee/Process-Mining/blob/main/Quick%20Sample/exercise1.png)	</br>
 Generated using [PyProM](https://github.com/harrywang/pyprom), a lightweight Process Mining library of Python.
 
 

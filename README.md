@@ -33,7 +33,7 @@ Generated using [PyProM](https://github.com/harrywang/pyprom), a lightweight Pro
 # Weekly lab report
 This section is for the weekly report as a lab intern focusing on process mining. 
 
-## Week 1  5.9-5.13
+## Week ①  5.9-5.13
 Following the [online courses of Eindhoven University of Technology](https://www.coursera.org/learn/process-mining), I have a comprehensive grasp of what process mining is and what it is capable of. </br>
 1. Create this repository to record the learning and researching process </br>
 2. Complete the first week's courses on coursera</br>

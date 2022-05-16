@@ -12,9 +12,9 @@ Process mining aims to offer optimaztion just like data mining but with proces, 
 ## A quick example 
 To demostrate the flow of process mining, here we use an simple example:
 First we have an event log:
-  A B C D
-  A C B D
-  A E D
+    A B C D
+    A C B D
+    A E D
 Before using PM software or algorithm to analyse the event log, we could just judge by ourselve to have an understanding of what happened in the process flow. 
 Clearly, the flow of this event **start with event A** and **end with event D**, while B\C\E are optional whether to show up, it seems that B and C aren't supposed to be done without one other in any sequence but we don't have enough sample size to find out. 
 In conclusion we can form a shabby BPM as below:</br>

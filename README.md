@@ -1,26 +1,26 @@
 # Process-Mining Introduction
 A repository to update about learning notes and reports, codes and projects about process mining.
 ## What is Process mining?
-Process mining can be seen as an analytic way bridging data analysis (data mining, ML, BI) and process model analysis (BPMN, etc. )
+Process mining can be seen as an analytic way bridging data analysis (data mining, ML, BI) and process model analysis (BPMN, etc. ) </br>
 Process mining aims to offer optimaztion just like data mining but with proces, using **event log** to re-generate the business process that really happened and to gain insight from those generated processes.
 
-## Play-in Play-out and Replay
--**Replay**:   we start from both a process model and a collection of observed behavior, e.g. traces, and compare these.
--**Play-in**:  we start from event data and generate a process model, e.g. a Petri net.
--**Play-out**: we start from a process model and generate behavior, e.g. traces.
+## Play-in, Play-out and Replay
+**Replay**:   we start from both a process model and a collection of observed behavior, e.g. traces, and compare these.
+**Play-in**:  we start from event data and generate a process model, e.g. a Petri net.
+**Play-out**: we start from a process model and generate behavior, e.g. traces.
 
 ## A quick example 
 To demostrate the flow of process mining, here we use an simple example:
 First we have an event log:
-'A B C D
+'''{A B C D
 A C B D
-A E D'
+A E D}'''
 Before using PM software or algorithm to analyse the event log, we could just judge by ourselve to have an understanding of what happened in the process flow. 
 Clearly, the flow of this event **start with event A** and **end with event D**, while B\C\E are optional whether to show up, it seems that B and C aren't supposed to be done without one other in any sequence but we don't have enough sample size to find out. 
 In conclusion we can form a shabby BPM as below:
--              ->B->C-|
--Start -> A -->->C->B-|->D->End
--              ->E----|
+              ->B->C-|
+Start -> A -->->C->B-|->D->End
+              ->E----|
 
 Alternatively, we could use some analyzing tools such as open source library of python, R , etc. to automatically generate the whole process:
 https://github.com/harrywang/pyprom/blob/master/output/exercise1.png
@@ -37,4 +37,5 @@ Following the [online courses of Eindhoven University of Technology] (https://ww
   2.1 The introduction of process mining
   2.2 Some review about data analysis including Decision trees, Associate rule learning, clustering, etc. 
 3. Finish the introduction of this repository about process mining
-
+## Subtopic test
+### Subsubtopic test

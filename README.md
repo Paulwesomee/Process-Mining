@@ -43,7 +43,7 @@ Following the [online courses of Eindhoven University of Technology](https://www
 
 ## Week ② 5.16-5.19
 1. Still following the course Process Mining to get a grasp of how we can perform process mining operations.</br>
-2. Thesis reading- Behavioural service substitution</br>
+2. Thesis reading- [Behavioural service substitution](https://www.researchgate.net/publication/287235706_Behavioral_Service_Substitution)</br>
 - Trying to understand the goal of service substitution </br>
 - Understand the new concept brought up - BPEL, Petri Net and Open Net
 

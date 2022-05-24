@@ -1,5 +1,5 @@
 # Process-Mining Introduction
-A repository to update about learning notes and reports, codes and projects about process mining.
+A repository to update about learning notes and reports, codes and projects about Service substitution based on process mining.
 ## What is Process mining?
 Process mining can be seen as an analytic way bridging data analysis (data mining, ML, BI) and process model analysis (BPMN, etc. ) </br>
 Process mining aims to offer optimaztion just like data mining but with proces, using **event log** to re-generate the business process that really happened and to gain insight from those generated processes.
@@ -40,4 +40,10 @@ Following the [online courses of Eindhoven University of Technology](https://www
  - The introduction of process mining</br>
  - Some review about data analysis including Decision trees, Associate rule learning, clustering, etc. </br>
 3. Finish the introduction of this repository about process mining</br>
+
+##Week ② 5.16-5.19
+1. Still following the course Process Mining to get a grasp of how we can perform process mining operations.</br>
+2. Thesis reading- Behavioural service substitution</br>
+2.1 Trying to understand the goal of service substitution </br>
+2.2 Understand the new concept brought up - BPEL, Petri Net and Open Net
 

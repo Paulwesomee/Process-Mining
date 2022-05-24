@@ -41,7 +41,7 @@ Following the [online courses of Eindhoven University of Technology](https://www
  - Some review about data analysis including Decision trees, Associate rule learning, clustering, etc. </br>
 3. Finish the introduction of this repository about process mining</br>
 
-##Week ② 5.16-5.19
+## Week ② 5.16-5.19
 1. Still following the course Process Mining to get a grasp of how we can perform process mining operations.</br>
 2. Thesis reading- Behavioural service substitution</br>
 2.1 Trying to understand the goal of service substitution </br>

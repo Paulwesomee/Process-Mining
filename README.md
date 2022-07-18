@@ -47,3 +47,23 @@ Following the [online courses of Eindhoven University of Technology](https://www
 - Trying to understand the goal of service substitution </br>
 - Understand the new concept brought up - BPEL, Petri Net and Open Net
 
+## Week ③-⑥ 5.20-6.9 
+1. Shifting working focus from Process mining to service substitution and service composition</br>
+- Paper researching about previous result of the project:</br>
+-1. 
+-2. 
+
+## Week ⑥-⑨ 6.11-6.30
+Working on Obs graph tools—— a C++ based tool designed to realize the functions of Service composition and substitution, as a crucial part of the research topic, the part of the experiments is determined by the result of the usage of the tool.</br>
+- Understanding the essence of the code </br>
+- Learning the algorithm regarding to service composition, such as classic one, Binary Decision Tree, or some modified one by the project group, Rdpbdd, etc.</br>
+- Trying to implement the new algorithm proposed by the paper to be published, Checking Composition-Aware Service Substitutability to get a quantitive result of the algorithm, to better the research result. </br>
+</br>
+In charge of international communication —— During this period, A duty of international communication is also assigned to me to better communicate internationally with other research team focusing on the service substitution. Such as Professor Zhang's team from UTQingdao, China.</br>
+
+## Week ⑩-⑫ 7.1-7.19
+Due to the Compatibility issue, the code failed to perform normal, tho the algorithm was studied, the new implemented experiment couldn't be carried out. </br>
+A switch of the focus is thus proposed from the experiment part to the state-of-the-art research.</br>
+-Paper reviewing: A survey on service composition languages </br>
+
+

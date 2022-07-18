@@ -64,7 +64,7 @@ In charge of international communication —— During this period, A duty of in
 ## Week ⑩-⑫ 7.1-7.19
 Due to the Compatibility issue, the code failed to perform normally, tho the algorithm was studied, the new implemented experiment couldn't be carried out. </br>
 A switch of the focus is thus proposed from the experiment part to the state-of-the-art research.</br>
--Paper reviewing: [A survey on service composition languages](https://dl.acm.org/doi/10.1145/3417990.3421402) </br>
+- Paper reviewing: [A survey on service composition languages](https://dl.acm.org/doi/10.1145/3417990.3421402) </br>
 </br>
 International communication —— Two datasets were shared by researchers from UTQingdao, China. During this period, I managed to translate a part of it to demonstrate on the weekly report, in order to discover the practical value of it.
 

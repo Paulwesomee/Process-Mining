@@ -49,21 +49,23 @@ Following the [online courses of Eindhoven University of Technology](https://www
 
 ## Week ③-⑥ 5.20-6.9 
 1. Shifting working focus from Process mining to service substitution and service composition</br>
-- Paper researching about previous result of the project:</br>
--1. 
--2. 
+- Understanding the previous work of the project —— Using Symbolic observation graph, a kind of service composition language to realize service composition and service substitution.
+- Paper researching about the previous result of the project:</br>
+-1. .[A Bottom-Up Approach To Check The Correctness of Interorganisational Workflows](https://ieeexplore.ieee.org/document/7307728/authors#authors) </br>
 
 ## Week ⑥-⑨ 6.11-6.30
 Working on Obs graph tools—— a C++ based tool designed to realize the functions of Service composition and substitution, as a crucial part of the research topic, the part of the experiments is determined by the result of the usage of the tool.</br>
 - Understanding the essence of the code </br>
-- Learning the algorithm regarding to service composition, such as classic one, Binary Decision Tree, or some modified one by the project group, Rdpbdd, etc.</br>
+- Learning the algorithm regarding service composition, such as classic one, Binary Decision Tree, or some modified one by the project group, Rdpbdd, etc.</br>
 - Trying to implement the new algorithm proposed by the paper to be published, Checking Composition-Aware Service Substitutability to get a quantitive result of the algorithm, to better the research result. </br>
 </br>
-In charge of international communication —— During this period, A duty of international communication is also assigned to me to better communicate internationally with other research team focusing on the service substitution. Such as Professor Zhang's team from UTQingdao, China.</br>
+In charge of international communication —— During this period, A duty of international communication is also assigned to me to better communicate internationally with other research teams focusing on service substitution. Such as Professor Zhang's team from UTQingdao, China.</br>
 
 ## Week ⑩-⑫ 7.1-7.19
-Due to the Compatibility issue, the code failed to perform normal, tho the algorithm was studied, the new implemented experiment couldn't be carried out. </br>
+Due to the Compatibility issue, the code failed to perform normally, tho the algorithm was studied, the new implemented experiment couldn't be carried out. </br>
 A switch of the focus is thus proposed from the experiment part to the state-of-the-art research.</br>
 -Paper reviewing: A survey on service composition languages </br>
+</br>
+International communication —— Two datasets were shared by researchers from UTQingdao, China. During this period, I managed to translate a part of it to demonstrate on the weekly report, in order to discover the practical value of it.
 
 
